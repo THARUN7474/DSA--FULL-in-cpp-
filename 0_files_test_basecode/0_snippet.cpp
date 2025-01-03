@@ -295,4 +295,5 @@ int32_t main()
 
     
 
-    
+// https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode
+// https://github.com/agrawal-d/cph/blob/main/docs/user-guide.md
