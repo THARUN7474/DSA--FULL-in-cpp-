@@ -14,9 +14,11 @@ int stringproblems(){
     // return 0;
     int hash[256]= {0};
     int hash2[26]={0};
+    int hash3[26]={0};
     for(int i=0;i<s.length();i++){
         hash[s[i]]++;//auto casting
-        hash2[s[i]-'a']++;
+        hash2[s[i]-'a']++;//for only lower case 
+        // hash3[s[i]-'A']++;//for only Upper case 
     }
     int q;
     cin>>q;
