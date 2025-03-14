@@ -21,6 +21,7 @@ public:
     void addEdge(int u, int v, int weight)
     {
         adjList[u].push_back({v, weight});
+        // adjList[u].emplace_back(v, weight); // can also be used
     }
 
     void BFS(int startVertex)

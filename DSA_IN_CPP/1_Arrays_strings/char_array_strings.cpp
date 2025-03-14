@@ -126,7 +126,7 @@ int main()
     // int n;
     // cin >> n;
     // char str[n];
-    // char str1[n];
+    // char str1[n];E
 
     // cin >> str;
     // // getline(cin, str);--works too
