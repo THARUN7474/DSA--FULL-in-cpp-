@@ -10,10 +10,10 @@ class Solution {
   public:
     // Function returns the second
     // largest elements
-    int getSecondLargest(vector<int> &arr) {
+    int getSecondLargest(vector<int> &arr) {// similiarly ----secondsmallest and retuening both as pair --- 
         // Code Here
         int f = -1; 
-        int s = -1;
+        int s = -1;// here we just use INT_MAX instead of -1 FOR SECOND SMALLEST CASE 
         
         for(int i : arr){
             if(i>f){
@@ -27,6 +27,23 @@ class Solution {
         
         return s;
     }
+
+    int getsecondsmallest(vector<int> &arr){
+        int f = INT_MAX;
+        int s = INT_MAX;
+        
+        for(int i : arr){
+            if(i<f){
+                s = f;
+                f = i;
+            }
+            else if(i<s && i>f){
+                s = i;
+            }
+        }
+        
+        return s;
+    }   
 };
 
 //{ Driver Code Starts.
