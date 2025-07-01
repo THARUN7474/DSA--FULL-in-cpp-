@@ -42,10 +42,10 @@ public:
 // }
 
 
-// good solutions : for better soltuions and explanations, refer to the link below:
- https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6905499/in-detail-explanation-beginner-easy-code-dry-run-notes-beats-100 
- https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6904590/counting-principle-add-vs-subtract-c-100-py3-1-liner
- https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6904550/advanced-approach-for-longer-strings-beats-100-featuring-1-liner-regex
+// // good solutions : for better soltuions and explanations, refer to the link below:
+//  https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6905499/in-detail-explanation-beginner-easy-code-dry-run-notes-beats-100 
+//  https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6904590/counting-principle-add-vs-subtract-c-100-py3-1-liner
+//  https://leetcode.com/problems/find-the-original-typed-string-i/solutions/6904550/advanced-approach-for-longer-strings-beats-100-featuring-1-liner-regex
 
 // int main() {
 //     Solution sol;
