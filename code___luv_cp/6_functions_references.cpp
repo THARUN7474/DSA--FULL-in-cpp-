@@ -48,7 +48,7 @@ int main(){
     cin >> n >> m;
     cout << digitsum(n) + digitsum(m)<<endl;
 
-    //referenences or pointers----for cp no much use of pointers we can do all work as refereneces(&var means its reference means itself will cahneg when ever var chanegs) too
+    //referenences or pointers----for cp no much use of pointers we can do all work as refereneces(&var means its reference means itself will cahneg when ever var chanegs) too 
     int a = 10;
     int b = 100;
     cout << a<< '\n';

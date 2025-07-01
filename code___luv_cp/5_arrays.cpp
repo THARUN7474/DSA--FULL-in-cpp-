@@ -56,4 +56,10 @@ int main(){
 	//all above in main() fun or in any local scope
 
 	//in global scope but delacre it as const int n = 1e7 and do 
+
+	//why because it is not in stack memory it is in heap memory so we can use it
+	//but in local scope it is in stack memory so we cant use it-----it is fixed size depends on architecture of system
+	//so we can use it in global scope or heap memory-like using new int[n] or malloc() in c++---> more over like data segment --we statically declare it 
+	//or use vector<int> a(n) or vector<int> a(n,0) to keep all 0s in it
+	//or use vector<int> a(n,1) to keep all 1s in it
 }

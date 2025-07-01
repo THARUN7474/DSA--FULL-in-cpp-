@@ -4,10 +4,13 @@ using namespace std;
 int main(){
 	cout << 7/2 << endl;
 	cout << 7/2.0 << endl;
-	int a =3/2.0;
-	double b =3/2;
+	int a =3/2.0;  
+	double b =3/2;  
 	cout << a << endl;
-	cout << b << endl;
+	cout << b << endl; 
+	
+
+
 
 	//precedence matter
 	// double> float> long long int> long int> int > char
