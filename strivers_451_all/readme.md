@@ -1,8 +1,4 @@
-Here's your plan with correct grammar while keeping the content unchanged:  
-
----
-
-### **Striver’s A2Z DSA Course Plan**  
+# **Striver’s A2Z DSA Course Plan**  
 **Source:** [Striver’s A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)  
 
 For any question, I will refer to online articles to explore different approaches.  
@@ -69,36 +65,56 @@ For any question, I will refer to online articles to explore different approache
 
 ---
 
-### **Tracking Progress**  
 
-- **Started:** **14/03/25** (from arrays)  
 
-Here's your updated table with **Serial Numbers (S.No)** and properly structured **Easy (1st module) topics** from each step.  
 
-| S.No | Topic Name                | Start Date | End Date  | No. of Days | No. of Questions | 1st Revision Date | 2nd Revision Date | 3rd Revision Date | 4th Revision Date | Notes (e.g., Marked for Revision, Used Solutions) |
-|------|---------------------------|------------|------------|-------------|------------------|-------------------|-------------------|-------------------|-------------------|------------------------------------------------|
-| 1    | Arrays - Easy            | 14/03/25  | 16/03/25  | 3           | 14               | 17/03/25          | -                 | -                 | -                 | Marked 2 for revision, Used YouTube solutions |
-| 2    | Binary Search - Easy     |  17/03/25          |            |             | 13               |                   |                   |                   |                   |                                                |
-| 3    | Strings - Easy           |            |            |             | 7                |                   |                   |                   |                   |                                                |
-| 4    | Linked List - Easy       |            |            |             | 5                |                   |                   |                   |                   |                                                |
-| 5    | Recursion - Easy         |            |            |             | 5                |                   |                   |                   |                   |                                                |
-| 6    | Bit Manipulation - Easy  |            |            |             | 8                |                   |                   |                   |                   |                                                |
-| 7    | Stacks & Queues - Easy   |            |            |             | 8                |                   |                   |                   |                   |                                                |
-| 8    | Sliding Window - Easy    |            |            |             | 8                |                   |                   |                   |                   |                                                |
-| 9    | Heaps - Easy             |            |            |             | 4                |                   |                   |                   |                   |                                                |
-| 10   | Greedy Algorithms - Easy |            |            |             | 5                |                   |                   |                   |                   |                                                |
-| 11   | Binary Trees - Easy      |            |            |             | 13               |                   |                   |                   |                   |                                                |
-| 12   | Binary Search Trees - Easy |          |            |             | 3                |                   |                   |                   |                   |                                                |
-| 13   | Graphs - Easy            |            |            |             | 10               |                   |                   |                   |                   | Extra revision planned                        |
-| 14   | Dynamic Programming - Easy |          |            |             | 10               |                   |                   |                   |                   | Extra revision planned                        |
-| 15   | Tries - Easy             |            |            |             | 3                |                   |                   |                   |                   |                                                |
+Your **plan is well-structured, detailed, and highly efficient**—you have a solid strategy for learning, revising, and tracking progress. You’re following a **smart approach** by:  
 
----
+✅ **Solving easy problems first** before moving to medium and hard ones.  
+✅ **Double revision for complex topics** like Graphs, DP, and Tries.  
+✅ **Marking questions** for revision and re-solving tricky ones.  
+✅ **Storing solutions** and maintaining a progress tracker.  
 
-### ✅ Next Step:
-I’ll now fill in the **Medium / 2nd module** topics for each step. Let me know if this format is good before proceeding! 🚀
+### **Can You Complete This in 3 Months?**  
+Yes, **it’s possible**, but it depends on:  
 
----
+1. **Consistency** – You need to solve problems **every day without fail** (or minimize missed days).  
+2. **Daily Question Target** – If you aim to **complete 450+ questions** in 90 days, you should solve around:  
+   - **5-6 questions daily** (mix of easy, medium, and hard).  
+   - **More on weekends or free days** to balance tougher topics.  
+3. **Speed & Understanding** – Some topics (like Graphs, DP) may take longer due to deeper concepts, so allocate **extra time** accordingly.  
+4. **Time Spent Per Problem** – If you take **too much time per problem**, it can slow you down. Keep your time per question reasonable:  
+   - Easy: **15-20 min**  
+   - Medium: **30-40 min**  
+   - Hard: **1 hour max** (If stuck, see the explanation and reattempt).  
+5. **Revision & Retention** – Your plan includes **revisions**, which is great! Stick to it to avoid forgetting concepts.  
+
+### **Suggested Timeline (3-Month Plan)**  
+| **Month** | **Focus Areas** | **Goal** |  
+|-----------|---------------|---------|  
+| **Month 1** | Arrays, Binary Search, Strings, Linked Lists, Recursion | **Finish all Easy + Start Medium** |  
+| **Month 2** | Stacks & Queues, Sliding Window, Heaps, Greedy, Trees, BST | **Complete Medium & Start Hard** |  
+| **Month 3** | Graphs, DP, Tries, Advanced Topics | **Master Hard & Do Final Revisions** |  
+
+### **Final Answer**  
+**Yes, you can finish this in 3 months if you solve 5-6 questions daily and stick to your plan.** Just stay disciplined, focus on **understanding concepts** rather than just solving problems, and don’t skip revisions! 🚀🔥
+
+
+
+### **Plan for 110 Days:**  
+| **Phase** | **Duration** | **Topics Covered** | **Target Questions** |
+|-----------|-------------|--------------------|----------------------|
+| **Phase 1 (dates)** | **1 Month** | Arrays, Binary Search, Strings, Recursion, LL | **150 Questions** |
+| **Phase 2 (dates)** | **1 Month** | Stacks, Queues, Sliding Window, Heaps, Trees, BST, Greedy | **150 Questions** |
+| **Phase 3 (dates)** | **1 Month** | Graphs, DP, Tries, Backtracking, Advanced Topics | **150 Questions** |
+| **Phase 4 (dates)** | **Final 10 Days** | **Revision + Mock Practice** | **Re-solve weak problems** |
+
+This schedule allows:  
+✅ **Extra buffer time** for difficult topics.  
+✅ **Better revision & mock practice** at the end.  
+✅ **More flexibility** in case of delays or other tasks.  
+
+🚀 **Stick to this plan, and you'll master DSA before your deadline!**
 
 ### **Total Topics and Progress**  
 
@@ -183,59 +199,34 @@ Here's your data in a **well-structured table format**:
 ---
 This is your **structured and corrected** version of the plan. Let me know if you need any changes! 🚀🔥
 
-Your **plan is well-structured, detailed, and highly efficient**—you have a solid strategy for learning, revising, and tracking progress. You’re following a **smart approach** by:  
 
-✅ **Solving easy problems first** before moving to medium and hard ones.  
-✅ **Double revision for complex topics** like Graphs, DP, and Tries.  
-✅ **Marking questions** for revision and re-solving tricky ones.  
-✅ **Storing solutions** and maintaining a progress tracker.  
+### **Tracking Progress**  
 
-### **Can You Complete This in 3 Months?**  
-Yes, **it’s possible**, but it depends on:  
+- **Started:** **---date--** (from arrays)  
 
-1. **Consistency** – You need to solve problems **every day without fail** (or minimize missed days).  
-2. **Daily Question Target** – If you aim to **complete 450+ questions** in 90 days, you should solve around:  
-   - **5-6 questions daily** (mix of easy, medium, and hard).  
-   - **More on weekends or free days** to balance tougher topics.  
-3. **Speed & Understanding** – Some topics (like Graphs, DP) may take longer due to deeper concepts, so allocate **extra time** accordingly.  
-4. **Time Spent Per Problem** – If you take **too much time per problem**, it can slow you down. Keep your time per question reasonable:  
-   - Easy: **15-20 min**  
-   - Medium: **30-40 min**  
-   - Hard: **1 hour max** (If stuck, see the explanation and reattempt).  
-5. **Revision & Retention** – Your plan includes **revisions**, which is great! Stick to it to avoid forgetting concepts.  
+Here's your updated table with **Serial Numbers (S.No)** and properly structured **Easy (1st module) topics** from each step.  
 
-### **Suggested Timeline (3-Month Plan)**  
-| **Month** | **Focus Areas** | **Goal** |  
-|-----------|---------------|---------|  
-| **Month 1** | Arrays, Binary Search, Strings, Linked Lists, Recursion | **Finish all Easy + Start Medium** |  
-| **Month 2** | Stacks & Queues, Sliding Window, Heaps, Greedy, Trees, BST | **Complete Medium & Start Hard** |  
-| **Month 3** | Graphs, DP, Tries, Advanced Topics | **Master Hard & Do Final Revisions** |  
+| S.No | Topic Name                | Start Date | End Date  | No. of Days | No. of Questions | 1st Revision Date | 2nd Revision Date | 3rd Revision Date | 4th Revision Date | Notes (e.g., Marked for Revision, Used Solutions) |
+|------|---------------------------|------------|------------|-------------|------------------|-------------------|-------------------|-------------------|-------------------|------------------------------------------------|
+| 1    | Arrays - Easy            |   |   |            | 14               |           | -                 | -                 | -                 | Marked 2 for revision, Used YouTube solutions |
+| 2    | Binary Search - Easy     |            |            |             | 13               |                   |                   |                   |                   |                                                |
+| 3    | Strings - Easy           |            |            |             | 7                |                   |                   |                   |                   |                                                |
+| 4    | Linked List - Easy       |            |            |             | 5                |                   |                   |                   |                   |                                                |
+| 5    | Recursion - Easy         |            |            |             | 5                |                   |                   |                   |                   |                                                |
+| 6    | Bit Manipulation - Easy  |            |            |             | 8                |                   |                   |                   |                   |                                                |
+| 7    | Stacks & Queues - Easy   |            |            |             | 8                |                   |                   |                   |                   |                                                |
+| 8    | Sliding Window - Easy    |            |            |             | 8                |                   |                   |                   |                   |                                                |
+| 9    | Heaps - Easy             |            |            |             | 4                |                   |                   |                   |                   |                                                |
+| 10   | Greedy Algorithms - Easy |            |            |             | 5                |                   |                   |                   |                   |                                                |
+| 11   | Binary Trees - Easy      |            |            |             | 13               |                   |                   |                   |                   |                                                |
+| 12   | Binary Search Trees - Easy |          |            |             | 3                |                   |                   |                   |                   |                                                |
+| 13   | Graphs - Easy            |            |            |             | 10               |                   |                   |                   |                   | Extra revision planned                        |
+| 14   | Dynamic Programming - Easy |          |            |             | 10               |                   |                   |                   |                   | Extra revision planned                        |
+| 15   | Tries - Easy             |            |            |             | 3                |                   |                   |                   |                   |                                                |
 
-### **Final Answer**  
-**Yes, you can finish this in 3 months if you solve 5-6 questions daily and stick to your plan.** Just stay disciplined, focus on **understanding concepts** rather than just solving problems, and don’t skip revisions! 🚀🔥
+---
 
+### ✅ Next Step:
+I’ll now fill in the **Medium / 2nd module** topics for each step. Let me know if this format is good before proceeding! 🚀
 
-Your deadline is **March 14, 2025, to June 31, 2025**, which is **110 days** (not exactly 3 months, since June has only 30 days).  
-
-This gives you **more time (almost 3.5 months)**, making it even more achievable if you stay consistent.  
-
-### **Updated Calculation Based on 110 Days:**  
-- If you plan to solve **450+ questions**, you need to solve about:  
-  - **4-5 questions per day** (instead of 5-6).  
-  - Some days can have **intensive practice sessions** to cover more.  
-  - **Revisions and tricky problems should be scheduled regularly.**  
-
-### **Refined Plan for 110 Days:**  
-| **Phase** | **Duration** | **Topics Covered** | **Target Questions** |
-|-----------|-------------|--------------------|----------------------|
-| **Phase 1 (14 Mar - 15 Apr)** | **1 Month** | Arrays, Binary Search, Strings, Recursion, LL | **150 Questions** |
-| **Phase 2 (16 Apr - 20 May)** | **1 Month** | Stacks, Queues, Sliding Window, Heaps, Trees, BST, Greedy | **150 Questions** |
-| **Phase 3 (21 May - 20 Jun)** | **1 Month** | Graphs, DP, Tries, Backtracking, Advanced Topics | **150 Questions** |
-| **Phase 4 (21 Jun - 30 Jun)** | **Final 10 Days** | **Revision + Mock Practice** | **Re-solve weak problems** |
-
-This schedule allows:  
-✅ **Extra buffer time** for difficult topics.  
-✅ **Better revision & mock practice** at the end.  
-✅ **More flexibility** in case of delays or other tasks.  
-
-🚀 **Stick to this plan, and you'll master DSA before your deadline!**
+---
