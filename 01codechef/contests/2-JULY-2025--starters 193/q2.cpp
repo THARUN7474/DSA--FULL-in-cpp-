@@ -19,7 +19,7 @@ int main() {
 	            cout<< "No\n";
 	        }
 	    }
-	}
+	}xx
 	return 0;
 
 }
